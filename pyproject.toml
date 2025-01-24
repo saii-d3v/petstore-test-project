@@ -7,6 +7,12 @@ readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.12"
+pytest = "^8.3.4"
+requests = "^2.32.3"
+pydantic = "^2.10.6"
+faker = "^35.0.0"
+allure-pytest = "^2.13.5"
+python-dotenv = "^1.0.1"
 
 
 [build-system]
